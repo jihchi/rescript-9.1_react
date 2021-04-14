@@ -1,5 +1,8 @@
+> Turns out just missing an argument! `-with-deps`, see [here](https://github.com/jihchi/rescript-9.1_react/pull/1/files)
+
 # ReScript 9.1 does not support rescript/react 0.10.1
 
+* [Does ReScript 9.1 support rescript/react 0.10.1?](https://forum.rescript-lang.org/t/does-rescript-9-1-support-rescript-react-0-10-1/1435/3) in ReScript Forum
 * [[ANN] rescript 9.1 for beta testing (windows testing welcome!)](https://forum.rescript-lang.org/t/ann-rescript-9-1-for-beta-testing-windows-testing-welcome/1427)
 * [rescript-react](https://github.com/rescript-lang/rescript-react)
 
