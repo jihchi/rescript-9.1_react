@@ -1,0 +1,20 @@
+{
+  "name": "rescript-react",
+  "version": "0.1.0",
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w"
+  },
+  "keywords": [
+    "ReScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "rescript": "^9.1.0"
+  },
+  "dependencies": {
+    "@rescript/react": "^0.10.1"
+  }
+}
