@@ -3,6 +3,14 @@
 * [[ANN] rescript 9.1 for beta testing (windows testing welcome!)](https://forum.rescript-lang.org/t/ann-rescript-9-1-for-beta-testing-windows-testing-welcome/1427)
 * [rescript-react](https://github.com/rescript-lang/rescript-react)
 
+## Getting Started
+
+```
+git clone git@github.com:jihchi/rescript-9.1_react.git
+cd rescript-9.1_react
+npm install
+```
+
 You'd get an error when you execute the command `npm run build`:
 
 ```sh
